@@ -1,4 +1,5 @@
-This project had two main goals: 
+This project had two main purposes: 
+
 1. Analyze data on domestic flights in India in 2019 to determine what features most impact the price of a flight. 
 2. Experiment with various types of machine learning models, their hyperparameters, as well as feature selection to find a model that can accurately predict the price of a flight.
 
